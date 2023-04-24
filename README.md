@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![ENDR](https://user-images.githubusercontent.com/87834304/233972550-9dbf4233-0d12-4e64-83f4-2dba6c545518.png)
+![endrergnLogo](https://user-images.githubusercontent.com/87834304/233988367-4caebc82-caf3-4e4a-8956-a04cbe074685.png)
 
