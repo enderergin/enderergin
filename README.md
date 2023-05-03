@@ -4,13 +4,13 @@
 
             bool isealim = true;
             string aday = "ender_ergin";
-            int para = 0;
+            int katmadeger = 0;
 
             if (isealim)
             {
                 for (;;)
                 {
-                   para++ ;
+                   katmadeger++ ;
                 }
             }
             else
